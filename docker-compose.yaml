@@ -1,0 +1,10 @@
+version: "3" 
+services: 
+  dev_dig_azi: 
+    build:
+     context: ./
+     dockerfile: ./Dockerfile.dev
+    volumes: 
+      - ./:/app
+    ports:
+      - "8039:8000"
