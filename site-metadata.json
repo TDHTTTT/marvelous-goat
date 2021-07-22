@@ -1,7 +1,7 @@
 {
     "base_font": "nunito-sans",
     "palette": "blue",
-    "siteUrl" : "https://www.digerini.com",
+    "siteUrl": "https://www.digerini.com",
     "header": {
         "logo_img": "images/Logo-300-TM.png",
         "logo_img_alt": "Logo",
@@ -131,5 +131,6 @@
         ],
         "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=azimuth&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>."
     },
-    "title": "Digerini"
+    "title": "Digerini",
+    "domain": "https://marvelous-goat-8b51b.netlify.app"
 }
